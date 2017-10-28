@@ -1,0 +1,21 @@
+Tile_RegionSymbol
+- Rainforest
+	LuMR = Lumberjack
+	RaF = Rainforest
+	FDu = Forest Dungeon
+	TrH = Treehouse
+	ShR = Shrine
+- Grassfield
+	GrL = Grassland
+	Hill = Hills
+	TmF = Temperate Forest
+	FDu = Forest Dungeon
+	SRu = Stone Ruins
+	ShR = Shrine
+- Desert
+	OAS = Oasis
+	BuR = Desert Burrows
+	CsR = Crossroads
+	Des = Mass Desert
+	SnD = Sun Dungeon
+	FVi = Fire Village

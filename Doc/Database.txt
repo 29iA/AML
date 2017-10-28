@@ -1,0 +1,106 @@
+^^^ A Mundane Life: Database ^^^
+
+1. Terminology
+---
+A. Elements
+	Synopsis: Spell-oriented class levels
+		- Physical (Weapon: Any Physical)
+			> Slash (W: Blade-only)
+			> Blunt (W: Blunt-only)
+			> Pierce (W: Ranged-only)
+		- Fire (W: Spells, Staves)
+			> Inferno
+			> Blaze
+		- Water (W: Spells, Staves)
+			> Ice
+			> Tsunami
+		- Arcane
+			> Archaic
+			> Furistic
+		- Nature (W: Spells, Oracles)
+			> Holy (W: Oracle-only)
+			> Runic (W: Oracle-only)
+		- Lust (W: Spells, Effects, Toys)
+			> Masochist
+			> Sadist
+		- Profession (only for Life Skils)
+B. Weapon Types
+	Synopsis: Reflect Elements
+		- Blade
+		- Blunt
+		- Ranged
+			> Bow
+			> Crossbow
+		- Staff
+			> Fire
+			> Water
+			> Arcane
+		- Oracle
+			> Holy Oracle
+			> Runic Oracle
+		- Toy 
+			> Whip
+			> Dildo
+			> Onahole
+		- Tool
+			> Lumberjack
+			> Mining
+			> Fishing
+			> Farming
+			> Ranching
+			> and more...
+C. Skill Types
+	Synopsis: The weapons play a big part in dividing skill types, self-explanatory
+		- Physical
+		- Magic
+		- Lust
+D. Armor Types
+	Synopsis: Adjust to Elemental liking
+		- Cloth Armor (Slash = 1.5; Blunt = 1.5; Pierce = 1.5) [Magic = .5] //little armor, great combat stat buffs
+		- Hide Armor (Slash = 1; Blunt = 1; Pierce = 2) [Magic = 1] //regular armor, regular combat stat buffs
+		- Plate Armor (Slash = .5; Blunt = 2; Pierce = .5) [Magic = 1.5] //strong armor, little combat stat buffs
+		- Off-Hand (varies) //stat buffs on different things
+		- Ordinary Clothing (no protection) //no defensive stats, great for other things
+		- Miscellaneous (no protection) //extra items
+E. Basic Status
+	Synopsis: Replace TP with Lust for Sex Attacks
+F. Parameter
+	Synopsis: Reworked to fit Elements
+		- MHP -> MaxHP
+		- MMP -> MaxMP (Fixed 100, acts as percentage)
+		- ATK -> Strength
+		- DEF -> Armor (Fixed at 0, let Armor Types handle it)
+		- MAT -> Magical
+		- MDF -> M.Armor (Fixed at 0, let Armor Types handle it)
+		- AGI -> Speed (Fixed at 0, let Armor Types handle it)
+		- LUK -> Luck (Fixed at 0, let Armor Types handle it)
+G. Equip Types
+	Synopsis: Clothing Expansion
+		- Weapon
+		- Off-Hand
+		- Head
+		- Body
+		- Boot
+		- Hand
+		- Ear
+		- Misc
+		
+2. Classes and EXP Gains
+---
+Synopsis: Keep it simple and little number so it's easier to balance around.
+A. EXP Curve
+	- 10, 0, 10, 10
+B. MaxHP
+	- Base: 15
+	- Max: 113
+C. MaxMP - Fixed 100
+D. ATK (Attack)
+	- Base: 1
+	- Max: 50
+E. DEF - Fixed 0
+F. MAT
+	- Base: 1
+	- Max: 50
+G. MDF - Fixed 1
+H. AGI (Speed) - Fixed 1
+I. LUK - Fixed 1
